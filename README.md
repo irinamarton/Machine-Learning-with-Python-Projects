@@ -1,2 +1,2 @@
-# Machine-Learning-with-Python-Projects
+# Machine Learning with Python Projects
 freeCodeCamp challenge coding projects
