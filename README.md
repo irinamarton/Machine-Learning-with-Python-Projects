@@ -1,5 +1,5 @@
 # Machine Learning with Python Projects
-freeCodeCamp challenge coding projects
+[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/FreeCodeCamp_logo.svg/1600px-FreeCodeCamp_logo.svg.png" width="200"/>]freeCodeCamp challenge coding projects
 
 
 ### [Cat and Dog Image Classifier](https://github.com/irinamarton/Machine-Learning-with-Python-Projects/blob/main/FCC_cat_dog.ipynb)
